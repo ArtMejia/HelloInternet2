@@ -1,4 +1,4 @@
-package com.mejia.HelloInternet2;
+package com.mejia.helloInternet2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
